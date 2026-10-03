@@ -1,57 +1,90 @@
-# Hi, I'm Linkesh M 👋
+# Linkesh M
 
-### ⚡ First-Year EEE Student | Aspiring Embedded Systems Engineer
+**First-Year B.E. Electrical and Electronics Engineering | Aspiring Embedded Systems Engineer**
 
-📧 [Email me](mailto:mlinkesh23@gmail.com)
- LinkedIn: [Linkesh M](https://www.linkedin.com/in/linkesh-m-65a787436)
-
----
-
-## 📖 About Me
-
-- 🎓 **Study:** B.E. Electrical and Electronics Engineering at St. Joseph's College of Engineering, Chennai
-- 🎯 **Goal:** Become an embedded systems engineer in a core company
-- 📚 **Learning now:** C programming, sensors, and IoT basics
-- 🔧 **Dream project:** A smart fan using Arduino
-- 💬 **Ask me about:** What does an engineer do? What is embedded systems?
-- ⚽ **Fun fact:** I play football, and I learn best by building things with my hands
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkesh-m-65a787436)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlinkesh23@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## About Me
 
-| Area | What I know |
-|---|---|
-| Language | C (basics) |
-| Hardware | Arduino (learning) |
-| Topics | IoT basics, sensors (learning) |
-| Tools | Git, GitHub |
+I am a first-year Electrical and Electronics Engineering student at St. Joseph's College of Engineering, Chennai. I am interested in embedded systems, where hardware and software work together to control real devices. I am building a strong base in C programming, basic electronics, and the Internet of Things (IoT). I learn best through hands-on projects, and my goal is to start my career in a core engineering company.
 
 ---
 
-## 📌 Projects
+## Focus Areas
 
-- 🔌 **arduino-basics** – Small Arduino projects like LED blink (coming soon)
-- 🌀 **smart-fan** – A fan that reacts to temperature (planned)
-
----
-
-## 🗺️ Roadmap
-
-- ✅ **Done:** Completed the Infosys Springboard *Internet of Things* course (Sept 2026)
-- 🔵 **Now:** Learning C and Arduino basics
-- 🎯 **Next 6 months:** Sensors, IoT basics, and better communication skills
-- 🚀 **Long-term:** Embedded systems engineer in a core company
+- **Embedded Systems:** how microcontrollers read inputs and control devices
+- **Internet of Things (IoT):** connecting sensors and devices to collect and use data
+- **Sensors and Basic Electronics:** how sensors measure real-world values like temperature and light
+- **C Programming:** writing clear, structured code for hardware
+- **Professional Communication:** improving technical speaking and writing
 
 ---
 
-## 🏆 Certifications
+## Currently Learning
 
-- **Internet of Things** – Infosys Springboard (Sept 29, 2026)
+- C programming fundamentals
+- Arduino basics and simple circuits
+- Sensors and how to connect them to a microcontroller
+- IoT concepts and how devices share data
+- Documenting my projects clearly on GitHub
 
 ---
 
-## 📫 Connect With Me
+## Tech Stack
 
+| Category | Tools | Level |
+|---|---|---|
+| Programming | C | Basics |
+| Hardware | Arduino | Beginner |
+| Concepts | IoT, Sensors | Foundational |
+| Tools | Git, GitHub | Beginner |
+
+---
+
+## Projects
+
+### Arduino Basics — Planned
+A collection of small beginner projects to practice the fundamentals: controlling LEDs, reading button inputs, and reading sensor values.
+
+### Smart Fan — Planned
+An Arduino-based fan that adjusts its speed using temperature readings. This project will combine sensors, motor control, and C programming.
+
+---
+
+## Career Roadmap
+
+- **Completed:** Internet of Things course, Infosys Springboard
+- **In progress:** C programming, Arduino, and electronics basics
+- **Next 6 months:** Sensors, IoT fundamentals, and communication skills
+- **Long-term:** Embedded systems engineer in a core company
+
+---
+
+## Certifications
+
+- **Internet of Things** — Infosys Springboard (September 29, 2026)
+
+---
+
+## Beyond Engineering
+
+I play football, and I enjoy learning by building and testing things myself instead of only reading about them.
+
+---
+
+## Ask Me About
+
+- What does an engineer do?
+- What is embedded systems?
+- How to start engineering as a beginner
+
+---
+
+## Connect With Me
+
+- LinkedIn: [Linkesh M](https://www.linkedin.com/in/linkesh-m-65a787436)
 - Email: mlinkesh23@gmail.com
-- Happy to learn from and work with other beginners on electronics projects!
+- I am open to learning from, and building projects with, other students and engineers.
